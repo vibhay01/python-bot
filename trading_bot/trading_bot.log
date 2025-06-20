@@ -1,0 +1,28 @@
+2025-06-20 18:18:02,204 - INFO - Initialized Binance Futures Client with Testnet = True
+2025-06-20 18:18:55,779 - ERROR - General Error: name 'ORDER_TYPE_STOP_MARKET' is not defined
+2025-06-20 18:23:40,583 - INFO - Initialized Binance Futures Client with Testnet = True
+2025-06-20 18:24:02,932 - ERROR - Binance API Error: APIError(code=None): None
+2025-06-20 18:25:21,687 - ERROR - Binance API Error: APIError(code=None): None
+2025-06-20 18:26:25,828 - ERROR - Binance API Error: APIError(code=None): None
+2025-06-20 18:28:32,985 - ERROR - General Error: name 'ORDER_TYPE_STOP_MARKET' is not defined
+2025-06-20 18:36:12,550 - INFO - Connected to Binance Futures Testnet
+2025-06-20 18:36:13,484 - INFO - Placing order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'quantity': 0.01, 'type': 'MARKET'}
+2025-06-20 18:36:14,005 - ERROR - API Error 401: API-key format invalid.
+2025-06-20 18:38:20,970 - INFO - Initialized Binance Futures Client with Testnet = True
+2025-06-20 18:38:51,563 - ERROR - General Error: name 'ORDER_TYPE_STOP_MARKET' is not defined
+2025-06-20 18:39:59,514 - ERROR - General Error: name 'ORDER_TYPE_STOP_MARKET' is not defined
+2025-06-20 18:42:12,769 - INFO - Initialized Binance Futures Client with Testnet = True
+2025-06-20 18:42:44,254 - ERROR - General Error: name 'ORDER_TYPE_STOP' is not defined
+2025-06-20 18:44:11,033 - INFO - Initialized Binance Futures Client with Testnet = True
+2025-06-20 18:45:14,642 - INFO - Initialized Binance Futures Client with Testnet = True
+2025-06-20 18:45:41,826 - ERROR - Binance API Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-06-20 18:54:08,982 - INFO - Initialized Binance Futures Client with Testnet = True
+2025-06-20 18:54:25,147 - ERROR - General Error: name 'ORDER_TYPE_STOP' is not defined
+2025-06-20 18:54:52,248 - ERROR - Binance API Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-06-20 18:59:23,899 - INFO - Initialized Binance Futures Client with Testnet = True
+2025-06-20 19:00:12,350 - INFO - Initialized Binance Futures Client with Testnet = True
+2025-06-20 19:00:30,291 - ERROR - Binance API Error: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-06-20 19:03:10,367 - ERROR - Binance API Error: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-06-20 19:04:16,174 - INFO - Initialized Binance Futures Client with Testnet = True
+2025-06-20 19:04:32,498 - ERROR - Binance API Error: APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2025-06-20 19:05:57,048 - INFO - Order placed: {'orderId': 4570731978, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ827486cc03bf80bb6aac98', 'price': '60000.00', 'avgPrice': '0.00', 'origQty': '0.010', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1750426556975}
